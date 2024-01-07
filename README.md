@@ -1,4 +1,4 @@
-# Signal Android 
+# VIP Android 
 
 VIP is a simple, powerful, and secure messenger.
 
